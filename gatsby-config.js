@@ -3,7 +3,7 @@ module.exports = {
     title: `KAGAWA Blog`,
     author: {
       name: `Koushi Kagawa`,
-      summary: `who lives and works in Matsumoto-city`,
+      summary: `/Webディレクター、Webエンジニアです。`,
     },
     description: `KAGAWA Blog by GatsbyJS`,
     siteUrl: `https://kagawa.netlify.app/`,
