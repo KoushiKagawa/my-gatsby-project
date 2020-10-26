@@ -3,7 +3,7 @@ module.exports = {
     title: `KAGAWA Blog`,
     author: {
       name: `Koushi Kagawa`,
-      summary: `/Webディレクター、Webエンジニアです。`,
+      summary: `/受託案件のPjMです。課題調査から提案・進行管理が得意です。趣味でプログラミングもします。`,
     },
     description: `KAGAWA Blog by GatsbyJS`,
     siteUrl: `https://kagawa.netlify.app/`,
